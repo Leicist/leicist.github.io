@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"독일인과 자전거"
-date:	"2016-09-05 22:33:00 +0100
+date:	2016-09-05 22:33:00 +0100
 tags:	Germany, Bike
 ---
 
