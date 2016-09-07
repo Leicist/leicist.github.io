@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name :  Leicist
+      short_name :  leicist
     livefyre :
       site_id : 123
     intensedebate :
