@@ -1,5 +1,6 @@
 ---
 layout:	post
+comments:	true
 title:	"맥OS에서 Jekyll로 Github에 Blog만들기"
 date:	2016-08-14 17:25:00 +0900
 categories:	Geek
