@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Leicist's Blog
+title: Hello World!
+tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+ <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -19,3 +16,6 @@ title: Leicist's Blog
       </li>
     {% endfor %}
   </ul>
+
+
+
