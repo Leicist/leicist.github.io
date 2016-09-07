@@ -2,6 +2,7 @@
 layout:	post
 title:	"Pokémon Go"
 date:	2016-09-06
+categories:	Game
 tags:	Game
 ---
 
