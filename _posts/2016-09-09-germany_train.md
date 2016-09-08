@@ -4,7 +4,7 @@ title: "Germany Train"
 date:	2016-09-09 00:15:00 +0100
 description: ""
 category: Germany
-tags: Train WTF
+tags: Germany Train WTF
 ---
 {% include JB/setup %}
 
