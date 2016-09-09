@@ -46,7 +46,7 @@ html {
 }
 
 body {
-	background: #88DDD1;
+	background: $white;
   font: 18px/1.4 "Apple SD Gothic Neo", '나눔고딕', NanumGothic, 'NanumBarunGothic', 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif', '돋움', Dotum;
   color: $darkGray;
 }
@@ -186,7 +186,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #88DDD1;
   
   @include mobile {
     text-align: center;
@@ -225,7 +225,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: "Apple SD Gothic Neo", '나눔고딕', NanumGothic, 'NanumBarunGothic', 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif', '돋움', Dotum; 
-  font-weight: 300;
+  font-weight: 650;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -273,7 +273,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #88DDD1;
 }
 
 .posts > .post:last-child {
