@@ -18,16 +18,16 @@ timezone: Europe/Berlin
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: 
+  dribbble:
   email: leicist@gmail.com
-  facebook: 
+  facebook:
   flickr: 
   github: 
   instagram: 
   linkedin: 
   pinterest: 
   rss: https://dl.dropboxusercontent.com/u/18183807/RSS-icon-40.png # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: d
+  twitter: leicist
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
