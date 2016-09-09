@@ -1,0 +1,26 @@
+# Site settings
+title: Meditation
+header-img: img/home-bg.jpg
+email: leicist@gmail.com
+copyright_name: Leicist
+description: "Photographer and Physicist in Germany"
+baseurl: ""
+url: "http://leicist.github.io"
+twitter_username: leicist
+github_username:  leicist
+facebook_username: 
+email_username:  leicist@gmail.com
+disqus: leicist
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
