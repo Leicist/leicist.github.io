@@ -65,7 +65,7 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
-<!--
+/*
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
@@ -87,7 +87,7 @@ hr.small {
     color: #0085a1;
   }
 }
--->
+*/
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
