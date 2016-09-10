@@ -238,6 +238,18 @@ hr.small {
   font-style: italic;
   margin-top: 0;
 }
+
+.post-preview > .read-more {
+    font-size: 13px;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+.post-preview > .content {
+    font-size: 14px;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
 .post-preview > .post-meta > a {
   text-decoration: none;
   color: #404040;
