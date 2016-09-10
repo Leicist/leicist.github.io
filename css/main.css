@@ -47,7 +47,6 @@ hr.small {
   border-width: 4px;
   border-color: white;
 }
-
 .navbar-custom {
   background-color: transparent;
   position: absolute;
@@ -66,7 +65,6 @@ hr.small {
   font-weight: 800;
   letter-spacing: 1px;
 }
-
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
@@ -88,10 +86,7 @@ hr.small {
     color: #0085a1;
   }
 }
-
-
-    @media only screen and (min-width: 1170px) {
-
+@media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
@@ -135,7 +130,7 @@ hr.small {
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
-
+}
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
@@ -252,23 +247,11 @@ hr.small {
   color: #0085a1;
   text-decoration: underline;
 }
-.post-preview > .read-more {
-    font-size: 13px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-}
-.post-preview > .content {
-    font-size: 14px;
-    margin-left: 1em;
-    margin-right: 1em;
-}
-
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
   }
 }
-
 .section-heading {
   font-size: 36px;
   margin-top: 60px;
