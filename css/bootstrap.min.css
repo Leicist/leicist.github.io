@@ -4892,7 +4892,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   z-index: 2;
   margin-left: -1px
 }
-/*
+
 .nav {
   padding-left: 0;
   margin-bottom: 0;
@@ -5739,7 +5739,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus,
 fieldset[disabled] .navbar-inverse .btn-link:hover {
   color: #444
 }
-*/
+
 .breadcrumb {
   padding: 8px 15px;
   margin-bottom: 20px;
