@@ -4353,7 +4353,7 @@ tbody.collapse.in {
   border-right: 4px solid transparent;
   border-left: 4px solid transparent
 }
-/* 여기 
+ 
 .dropdown,
 .dropup {
   position: relative
@@ -4494,7 +4494,7 @@ tbody.collapse.in {
   bottom: 100%;
   margin-bottom: 2px
 }
-/*
+
 @media (min-width:768px) {
   .navbar-right .dropdown-menu {
     right: 0;
@@ -4703,7 +4703,6 @@ tbody.collapse.in {
   left: auto
 }
 
-여기까지 */
 [data-toggle=buttons]>.btn input[type=checkbox],
 [data-toggle=buttons]>.btn input[type=radio],
 [data-toggle=buttons]>.btn-group>.btn input[type=checkbox],
@@ -4893,7 +4892,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   z-index: 2;
   margin-left: -1px
 }
-
+/*
 .nav {
   padding-left: 0;
   margin-bottom: 0;
@@ -5740,7 +5739,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus,
 fieldset[disabled] .navbar-inverse .btn-link:hover {
   color: #444
 }
-
+*/
 .breadcrumb {
   padding: 8px 15px;
   margin-bottom: 20px;
