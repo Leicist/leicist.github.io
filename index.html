@@ -87,13 +87,16 @@ color:#dddddd; target="_blank" title="Facebook">
 </a></li>
     {% endif %}
  {% if site.twitter_username %}
-			<li>
-   <a href="https://twitter.com/{{ site.twitter_username }}" style="
-       color:#dddddd; target="_blank"  title="Twitter">
-       <!-- <i class="fa fa-twitter"></i> --> 
-                     </span>
-</a></li>
-    {% endif %}
+<li>
+                        <a href="https://twitter.com/{{ site.instagram_username }}" data-toggle="tooltip" title="Twiiter">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>    {% endif %}
+
+
                 {% if site.instagram_username %}
 			<li>
    <a href="https://instagram.com/{{ site.instagram_username }}" style="
