@@ -45,13 +45,9 @@ header-img: "img/writing-bg.jpg"
         </p>
 </a>
         {% if post.subtitle %}
-        <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 13px; margin-left: 1em;"> {{ post.subtitle }}</p>
+        <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ post.subtitle }}</p>
         {% endif %}
-    <div class="content" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;"> 
-        {{ post.content | strip_html | truncatewords:40}}
-      </div>
-      
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
+    
     <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 

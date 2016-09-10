@@ -247,19 +247,6 @@ hr.small {
   color: #0085a1;
   text-decoration: underline;
 }
-
-.post-preview > .read-more {
-    font-size: 14px;
-    margin-bottom: 10px;
-    margin-left: 2em;
-}
-
-.post-preview > .content {
-    font-size: 13px;
-    margin-left: 2em;
-    margin-right: 1em;
-}
-
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
     font-size: 36px;
