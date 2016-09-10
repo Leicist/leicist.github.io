@@ -49,10 +49,10 @@ header-img: "img/writing-bg.jpg"
         <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ post.subtitle }}</p>
         {% endif %}
         
-        <div class="content"> {{ post.content | strip_html | truncatewords:30}}
+        <div class="content" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 11px; margin-left: 1em;">  {{ post.content | strip_html | truncatewords:30}}
        </div>
        <br>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;" >Read More</a>
     <p class="post-meta" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 10px; margin-left: 1em;"> Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 
