@@ -2,14 +2,14 @@
 title: Meditation
 email: ""
 description: "Leicist"
-url: "leicist.github.io"
+url: "http://leicist.github.io"
 baseurl: ""
-facebook_username: ""
+facebook_username: 
 twitter_username: "leicist"
-instagram_username: ""
+instagram_username: "rt.leicist"
 github_username:  "leicist"
-deviantart_username: ""
-flickr_username: ""
+deviantart_username: 
+flickr_username: 
 discus_shortname: "leicist"
 share: true
 
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "/gallery/"  
-  - JOURNAL: "/journal/"
-  - ABOUT: "/about/"
+    - GALLERY: "http://leicist.github.io/gallery/"  
+  - JOURNAL: "http://leicist.github.io/journal/"
+  - ABOUT: "http://leicist.github.io/about/"
 
 # All translation keys
 translations:
