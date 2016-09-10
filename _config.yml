@@ -1,6 +1,6 @@
 # Site settings
-title: "Meditation"
-email: ""
+title: Meditation
+email: "leicist@gmail.com"
 description: "Leicist"
 url: "http://leicist.github.io"
 baseurl: ""
@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-    - GALLERY: "http://leicist.github.io/gallery/"  
+  - GALLERY: "http://leicist.github.io/gallery/"  
   - JOURNAL: "http://leicist.github.io/journal/"
   - ABOUT: "http://leicist.github.io/about/"
 
