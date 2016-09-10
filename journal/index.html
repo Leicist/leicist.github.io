@@ -36,16 +36,7 @@ header-img: "img/writing-bg.jpg"
 <div class="post-preview" style="border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #530720;">
     
 <a href="{{ post.url | prepend: site.baseurl }}">
-        {% if post.image.feature %}.post-preview > a > .read-more {
-    font-size: 13px;
-    margin-left: 1em;
-    margin-bottom: 1em;
-}
-.post-preview > a > .content {
-    font-size: 14px;
-    margin-left: 1em;
-    margin-right: 1em;
-}
+        {% if post.image.feature %}
 
 	<img src="{{ site.baseurl }}/img/postcover/{{ post.image.feature }}">
 	{% endif %}
