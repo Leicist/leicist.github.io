@@ -45,10 +45,10 @@ header-img: "img/writing-bg.jpg"
         </p>
 </a>
         {% if post.subtitle %}
-        <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 12px; margin-left: 1em;"> {{ post.subtitle }}</p>
+        <p class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 13px; margin-left: 1em;"> {{ post.subtitle }}</p>
         {% endif %}
-    <div class="post-subtitle">
-        {{ post.content | strip_html | truncatewords:20}}
+    <div class="post-subtitle" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 11px; margin-left: 2em;"> >
+        {{ post.content | strip_html | truncatewords:40}}
       </div>
       
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a> 
