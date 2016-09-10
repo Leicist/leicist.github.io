@@ -252,13 +252,13 @@ hr.small {
   color: #0085a1;
   text-decoration: underline;
 }
-.post-preview > .read-more {
+.post-preview > a > .read-more {
     font-size: 13px;
     font-style: underline;
     margin-left: 1em;
     margin-bottom: 1em;
 }
-.post-preview > .content {
+.post-preview > a > .content {
     font-size: 14px;
     margin-left: 1em;
     margin-right: 1em;
