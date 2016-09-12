@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - 35mm: "http://leicist.github.io/gallery/"  
+  - GALLERY: "http://leicist.github.io/gallery/"  
   - JOURNAL: "http://leicist.github.io/journal/"
   - ABOUT: "http://leicist.github.io/about/"
 
