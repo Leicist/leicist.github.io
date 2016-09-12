@@ -2,6 +2,7 @@
 layout: post
 date: 2016-09-09 20:30:00
 title: "Interview"
+categories:	Geek
 tags: Germany Physics
 ---
 

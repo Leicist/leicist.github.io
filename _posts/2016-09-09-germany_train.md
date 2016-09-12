@@ -3,7 +3,7 @@ layout: post
 title: "Germany Train"
 date:	2016-09-09 00:15:00
 description: ""
-category: Germany
+category: Savvy?
 tags: Germany Train WTF
 ---
 
