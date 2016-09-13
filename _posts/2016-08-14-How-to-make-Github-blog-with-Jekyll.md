@@ -28,7 +28,7 @@ Github 이용을 위해서는 우선 Git이 설치되어야 한다.
 
   
 # ruby 설치
-Jekyll을 설치하기 위해서는 먼저 ruby를 설치해야하는데, ruby version manager를 설치가 우선이다. (!!?!)  
+Jekyll을 설치하기 위해서는 먼저 ruby를 설치해야하는데, ruby version manager 설치가 우선이다. (!!?!)  
 OSX에서 RVM을 이용해 Ruby설치
 
 [참조](blog.grotesq.com/post/263)
