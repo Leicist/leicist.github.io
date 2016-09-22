@@ -37,9 +37,10 @@ header-img: "img/writing-bg.jpg"
     
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
-
-    <img src="{{ post.image.feature }}">
-	{% endif %}
+        <div style="width: 1375px; height: 675px; overflow:hidden">
+        <img src="{{ post.image.feature }}">
+        </div>
+    {% endif %}
  
  
         <p class="post-title" style="font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; margin-left: 1em;"> &#9658; {{ post.title }}
