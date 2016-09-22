@@ -131,6 +131,22 @@ hr.small {
     transform: translate3d(0, 100%, 0);
   }
 }
+
+/* post preview img */
+.post-img {
+    width: max-content;
+    height: 475px;
+    overflow: hidden;
+}
+@media only screen and (min-width: 768px) {
+    .post-img {
+    width: max-content;
+    height: 325px;
+    overflow: hidden;
+    }
+}
+
+
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
