@@ -138,8 +138,8 @@ hr.small {
     height: 475px;
     overflow: hidden;
 }
-@media only screen and (min-width: 768px) {
-    .post-img {
+@media only screen and (min-width:  768px) {
+    .post-img   {
     width: max-content;
     height: 325px;
     overflow: hidden;
