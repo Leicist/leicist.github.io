@@ -38,7 +38,7 @@ header-img: "img/writing-bg.jpg"
 <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.image.feature %}
 
-    <img src="{% if post.image.feature %}{{ post.image.feature }}">
+    <img src="{{ post.image.feature }}">
 	{% endif %}
  
  
