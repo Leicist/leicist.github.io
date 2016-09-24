@@ -76,14 +76,14 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #70BDB8;
+    color: #88DDD1;
   }
   .navbar-custom .nav li a {
     color: white;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover{
-    color: #70BDB8;
+    color: #88DDD1;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -113,11 +113,11 @@ hr.small {
     color: #ffffff;
   }
   .navbar-custom.is-fixed .navbar-brand:hover {
-    color: #70BDB8;
+    color: #88DDD1;
   }
   
   .navbar-custom.is-fixed .nav li a:hover {
-    color: #70BDB8;
+    color: #88DDD1;
   }
 .navbar-custom.is-fixed .nav li a:active{
     color: #6ec54d;
@@ -236,7 +236,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #70BDB8;
+  color: #88DDD1;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -272,7 +272,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #70BDB8;
+  color: #88DDD1;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -352,7 +352,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #70BDB8;
+  color: #88DDD1;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -372,8 +372,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #70BDB8;
-  border: 1px solid #70BDB8;
+  background-color: #88DDD1;
+  border: 1px solid #88DDD1;
   color: white;
 }
 .pager {
@@ -412,12 +412,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #70BDB8;
+  background: #88DDD1;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #70BDB8;
+  background: #88DDD1;
 }
 img::selection {
   color: white;
@@ -428,7 +428,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #70BDB8;
+  webkit-tap-highlight-color: #88DDD1;
 }
 .fa-stack-2x {
  color: black;
