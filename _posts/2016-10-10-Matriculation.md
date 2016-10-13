@@ -4,7 +4,7 @@ title:      "Matriculation Day"
 subtitle:   ""
 active: journal
 image:
-  feature: ""
+  feature: 
 date:       2016-10-10 
 header-img: ""
 tags: Germany
