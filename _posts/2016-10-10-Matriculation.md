@@ -12,8 +12,6 @@ categories: Savvy?
 ---
 
 
-[url=https://flic.kr/p/N4pxht][img]https://c8.staticflickr.com/9/8417/30230953631_0061bc9d86_o.jpg[/img][/url][url=https://flic.kr/p/N4pxht]IMG_4156[/url] by [url=https://www.flickr.com/photos/leicist/]Leitz J[/url], on Flickr
-
 # 1
 International Office와 Department의 합작품으로  
 Admission Letter를 구경도 못하고 일주일을 Office만 들락날락한 뒤,  
