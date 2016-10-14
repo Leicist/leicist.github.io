@@ -4,13 +4,12 @@ title:      "Matriculation Day"
 subtitle:   ""
 active: journal
 image:
-  feature: "https://c7.staticflickr.com/8/7502/30019848710_89311b44b1_o.jpg"
+  feature: "https://c1.staticflickr.com/9/8411/30316895365_5394252ea8_o.png"
 date:       2016-10-10 
-header-img: "https://c7.staticflickr.com/8/7502/30019848710_89311b44b1_o.jpg"
+header-img: "https://c1.staticflickr.com/9/8411/30316895365_5394252ea8_o.png"
 tags: Germany
 categories: Savvy?
 ---
-
 
 # 1
 International Office와 Department의 합작품으로  
